@@ -1,0 +1,47 @@
+nav a {
+    color: white;
+}
+
+nav li a:hover{
+    color: #fab81f;
+}
+
+.btn-primary{
+    background-color: black;
+    border-color: black;
+}
+
+.btn-primary:hover{
+    border-color: #fab81f;
+    background-color: #fab81f;
+    color: black;
+}
+.nav-pills{
+    background-color:rgb(225, 225, 225);
+}
+.nav-pills a{
+    color: #887400;
+}
+.nav-pills a:hover {
+    border-color: #fab81f;
+    background-color: #fab81f;
+    color: black;
+}
+.nav-pills li {
+    margin-right: 0.5em;
+}
+
+.total {
+    text-align: right;
+    color: #fab81f;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.botao_salvar {
+    width: 300px;
+}
+
+h1 {
+    text-transform: uppercase;
+}

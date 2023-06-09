@@ -1,0 +1,14 @@
+.totais {
+    text-align: right;
+    color: #39adb4;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.botao_salvar {
+    width: 300px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
